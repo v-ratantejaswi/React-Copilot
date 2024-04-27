@@ -28,11 +28,11 @@ cd rect-copilot
 npm start
 ```
 
-Built With
-Flask - The web framework used
-Python - Framework Language
-JS, HTML, CSS - Webpage Front-end
-GPT-4 - AI model for generating code
+### Built With
+•⁠ Flask - The web framework used
+•⁠ Python - Framework Language
+•⁠ JS, HTML, CSS - Webpage Front-end
+•⁠ GPT-4 - AI model for generating code
 
 ### Contributing
 We welcome contributions to Rect-CoPilot. Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
