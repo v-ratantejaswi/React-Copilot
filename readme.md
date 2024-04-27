@@ -1,11 +1,38 @@
-# Luddy Hackathon  -Team AiMAD
+# React-CoPilot - Automated UI/UX Code Generator
 
-List of files
+React-CoPilot leverages advanced large language models, specifically GPT-4, to automate the generation of UI/UX design documents and React code. This innovative tool aims to simplify and accelerate the development process for creating front-end solutions across various industries.
 
-1. hackathon.py - primary file with application logic.
-2. static - folder with images for flask application.
-3. design_doc.md - generated markdown design document
-4. AIMAD.jsx - generated React code using the application
-5. AiMAD_demo.mp4 - Recording of our demo video
-6. templates - Contains the index.html file for the flask application
+## Features
 
+•⁠  ⁠*Automated Design Documents:* Generates comprehensive UI/UX design documents based on input industry parameters.
+•⁠  ⁠*React Code Generation:* Produces ready-to-use React code from the design documents, facilitating quick development cycles.
+•⁠  ⁠*Industry Flexible:* Adapts to different industries, providing tailored solutions that meet specific needs.
+
+## Getting Started
+
+### Prerequisites
+
+Before you begin, ensure you have the following installed:
+•⁠ React.js
+•⁠ ⁠npm or yarn
+• React-icons
+• Chakra-UI
+
+### Installation
+
+Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/your-username/rect-copilot.git
+cd rect-copilot
+npm start
+```
+
+Built With
+Flask - The web framework used
+Python - Framework Language
+JS, HTML, CSS - Webpage Front-end
+GPT-4 - AI model for generating code
+
+### Contributing
+We welcome contributions to Rect-CoPilot. Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
